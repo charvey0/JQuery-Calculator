@@ -1,1 +1,1 @@
-# JavaScript-Calculator
+# JQuery-Calculator
